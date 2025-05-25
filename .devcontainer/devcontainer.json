@@ -6,7 +6,10 @@
 		"extensions": [
 			"mhutchie.git-graph",
 			"phil294.git-log--graph"
-		]
+		],
+		"settings": {
+			"workbench.colorTheme": "Default Dark+"
+		}
 	}
 },
 "features": {
